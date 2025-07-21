@@ -69,7 +69,7 @@ export default function SchemaBuilder({ fields, setFields }) {
       ))}
     </div>
   );
-  gi
+  
 
   return (
     <div className="space-y-4">
